@@ -6,6 +6,7 @@ public class HaloWorld {
 		System.out.println("Halo world");
 		String name;
 		int age=32;
+		char sex='M';
 	}
 
 }
